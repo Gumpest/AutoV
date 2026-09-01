@@ -12,7 +12,7 @@
 [Tao Huang](https://taohuang.info/)<sup>3</sup>,
 [Ming Lu](https://openreview.net/profile?id=~Ming_Lu2)<sup>1</sup>,
 [Kuan Cheng](https://cfcs.pku.edu.cn/people/faculty/kuancheng/index.htm)<sup>1</sup>,
-[Qi She](https://openreview.net/profile?id=~Qi_She1)<sup>2✉️</sup>,
+[Qi She](https://openreview.net/profile?id=~Qi_She1)<sup>2</sup>,
 [Shanghang Zhang](https://idm.pku.edu.cn/info/1017/1598.htm)<sup>1✉️</sup>
 
 <sup>1</sup>School of Computer Science, Peking University, <sup>2</sup>ByteDance, <sup>3</sup>Shanghai Jiao Tong University
