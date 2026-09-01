@@ -54,7 +54,6 @@ cd LLaVA
 python -m pip install --upgrade pip
 python -m pip install -e ".[train]"
 python -m pip install flash-attn==2.3.3 --no-build-isolation
-python -m pip install --upgrade huggingface_hub
 cd ..
 ```
 
@@ -157,7 +156,7 @@ locally using the layout above.
 
 ## Demo Inference
 
-### 1. Prepare the official MMVet questions
+### 1. Prepare the official questions
 
 Download the official
 [`mm-vet.zip`](https://github.com/yuweihao/MM-Vet/releases/download/v1/mm-vet.zip)
@@ -165,7 +164,7 @@ and extract it under `LLaVA/playground/data/eval/`:
 
 ### 2. Run AutoV
 
-Run the command from the `LLaVA` directory so that all relative checkpoint and
+Run the command from the `LLaVA` directory so that all relative checkpoints and
 data paths resolve correctly:
 
 ```bash
