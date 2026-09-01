@@ -8,6 +8,7 @@
 [Chun-Kai Fan](https://scholar.google.com/citations?user=TxeAbWkAAAAJ&hl=en&oi=ao)<sup>1</sup>,
 [Sicheng Yu](https://openreview.net/profile?id=%7ESicheng_Yu2)<sup>2</sup>,
 [Junwen Pan](https://openreview.net/profile?id=~Junwen_Pan1)<sup>2</sup>,
+
 [Tao Huang](https://taohuang.info/)<sup>3</sup>,
 [Ming Lu](https://openreview.net/profile?id=~Ming_Lu2)<sup>1</sup>,
 [Kuan Cheng](https://cfcs.pku.edu.cn/people/faculty/kuancheng/index.htm)<sup>1</sup>,
@@ -15,7 +16,7 @@
 [Shanghang Zhang](https://idm.pku.edu.cn/info/1017/1598.htm)<sup>1✉️</sup>
 
 <sup>1</sup>School of Computer Science, Peking University<br>
-<sup>2</sup>ByteDance Inc. · <sup>3</sup>Shanghai Jiao Tong University
+<sup>2</sup>ByteDance Inc. <sup>3</sup>Shanghai Jiao Tong University
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-red?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2506.16112)
 [![Code](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gumpest/AutoV)
